@@ -1,7 +1,7 @@
 # Hi, I'm Franek 👋🏼 <br /> I'm a 17 year old Front-end developer from Kraków, Poland 🇵🇱
 ## I love creating clean looking websites using modern technologies 💻 <br /> All of my projects must be well structured as I believe this is the key to being productive while coding 🧼 <br /> I'm also a scuba diver 🤿
 
-### ⚙️ Technologies I've used
+### ⚙️ Technologies I've used:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,9 +32,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-### ⚡ Fun fact
+### ⚡ Fun fact:
 - Vim is my favorite text editor
 
-### 📫 How to reach me
+### 📫 How to reach me:
 <a href="mailto:franekostrowski@protonmail.com"><img alt="protonmail" src="https://camo.githubusercontent.com/8205ce063a2d9574df5e4788b2b8a528acadc88143c74bda1a17d7a391f08ce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" /></a>
 

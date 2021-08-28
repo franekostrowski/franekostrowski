@@ -33,6 +33,6 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-####⚡ Fun fact
-- ![Vim is my favorite text editor](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+#### ⚡ Fun fact
+- Vim is my favorite text editor
 

@@ -1,7 +1,7 @@
-### Hi, I'm Franek 👋🏼 <br /> I'm a 17 year old Front-end developer from Kraków, Poland 🇵🇱
-#### I love creating clean looking websites using modern technologies 💻 <br /> All of my projects must be well structured as I believe this is the key to being productive while coding 🧼 <br /> I'm also a scuba diver 🤿
+## Hi, I'm Franek 👋🏼 <br /> I'm a 17 year old Front-end developer from Kraków, Poland 🇵🇱
+### I love creating clean looking websites using modern technologies 💻 <br /> All of my projects must be well structured as I believe this is the key to being productive while coding 🧼 <br /> I'm also a scuba diver 🤿
 
-##### ⚙️ Technologies I've used:
+#### ⚙️ Technologies I've used:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,16 +23,16 @@
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-##### 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
 - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
 
-##### 📫 How to reach me:
+#### 📫 How to reach me:
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-#### ⚡ Fun fact
+#### ⚡ Fun fact:
 - Vim is my favorite text editor
 

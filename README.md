@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
+<br />
+
 <details>
    <summary>
     ⚙️ Technologies I've used
@@ -64,5 +66,5 @@
   
 </details>
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 - <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>

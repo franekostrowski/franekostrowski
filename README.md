@@ -1,11 +1,11 @@
 # Hi, I'm Franek 👋🏼 <br /> I'm a 17 year old Front-end developer from Kraków, Poland 🇵🇱
 ## I love creating clean looking websites using modern technologies 💻 <br /> All of my projects must be well structured as I believe this is the key to being productive while coding 🧼 <br /> I'm also a scuba diver 🤿
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <details>
   <summary>
-    ### ⚙️ Technologies I've used
+    <h3>⚙️ Technologies I've used</h3>
   </summary>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,8 +29,12 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 </details>
 
-### 🔭 I’m currently working on:
-- [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+<details>
+  <summary>
+    <h3>🔭 I’m currently working on</h3>
+  </summary>
+  - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+</details>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -38,9 +42,13 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-### ⚡ Fun fact:
-- Vim is my favorite text editor
-- I'm a huge fan of Atomic Design
+<details>
+  <summary>
+    <h3>⚡ Fun fact</h3>
+  </summary>
+  - Vim is my favorite text editor
+  - I'm a huge fan of Atomic Design
+</details>
 
 ### 📫 How to reach me:
 - <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>

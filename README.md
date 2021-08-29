@@ -34,6 +34,7 @@
 -->
 ### ⚡ Fun fact:
 - Vim is my favorite text editor
+- I'm a huge fan of Atomic Design
 
 ### 📫 How to reach me:
 - <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>

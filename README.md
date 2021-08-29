@@ -7,6 +7,8 @@
    <summary>
     ⚙️ Technologies I've used
    </summary>
+   
+   <br />
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,6 +37,8 @@
   <summary>
     🔭 I’m currently working on
   </summary>
+   
+   <br />
   
   - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
   
@@ -50,6 +54,8 @@
   <summary>
     ⚡ Fun fact
   </summary>
+   
+   <br />
   
   - Vim is my favorite text editor
   - I'm a huge fan of Atomic Design

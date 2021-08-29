@@ -4,11 +4,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <details>
-  <h3>
-    <summary>
-      ⚙️ Technologies I've used
-    </summary>
-  </h3>
+   <summary>
+    ⚙️ Technologies I've used
+   </summary>
+  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,13 +28,16 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  
 </details>
 
 <details>
   <summary>
-    <h3>🔭 I’m currently working on</h3>
+    🔭 I’m currently working on
   </summary>
+  
   - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+  
 </details>
 
 <!--
@@ -46,10 +48,12 @@
 -->
 <details>
   <summary>
-    <h3>⚡ Fun fact</h3>
+    ⚡ Fun fact
   </summary>
+  
   - Vim is my favorite text editor
   - I'm a huge fan of Atomic Design
+  
 </details>
 
 ### 📫 How to reach me:

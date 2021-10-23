@@ -60,5 +60,5 @@
   
 </details>
 
-####% 📫 How to reach me:
+##### 📫 How to reach me:
 - <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>

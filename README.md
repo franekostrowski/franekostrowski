@@ -38,7 +38,7 @@
    
    <br />
   
-  - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+  - [🐾 Breedaholic (it's an old version, currently working on a redesign](https://github.com/franekostrowski/breedaholic-old)
   
 </details>
 

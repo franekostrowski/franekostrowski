@@ -39,6 +39,7 @@
    <br />
   
   - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+  - Website for my friend's business
   
 </details>
 

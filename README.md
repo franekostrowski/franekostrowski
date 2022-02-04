@@ -51,4 +51,5 @@
 -->
 
 ##### 📫 How to reach me:
-- <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>
+- <a href="mailto:franekostrowski@protonmail.com">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
+- <a href="https://www.linkedin.com/in/franciszek-ostrowski-084442222">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>

@@ -49,17 +49,6 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-<details>
-  <summary>
-    ⚡ Fun fact
-  </summary>
-   
-   <br />
-  
-  - Vim is my favorite text editor
-  - I'm a huge fan of Atomic Design
-  
-</details>
 
 ##### 📫 How to reach me:
 - <a href="mailto:franekostrowski@protonmail.com">✉️ Protonmail</a>

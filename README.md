@@ -42,8 +42,6 @@
    <br />
   
   - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
-  - Website for my friend's business
-  - Website for my dad's business
   
 </details>
 

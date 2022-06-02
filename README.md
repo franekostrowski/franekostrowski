@@ -1,5 +1,5 @@
 ### Hey there 👋🏼 <br /> I'm Franek and I'm an 18 year old Front-end developer from Kraków, Poland 🚀
-#### I love creating clean looking websites using modern technologies 💻 <br /> I'm also a scuba diver 🤿
+#### I love creating clean looking websites using modern technologies 💻 <br /> I'm also a scuba diver 🤿 <br />
 
 <details>
    <summary>

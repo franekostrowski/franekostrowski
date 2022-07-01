@@ -54,4 +54,4 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/franciszek-ostrowski-084442222">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/franekostrowski">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>

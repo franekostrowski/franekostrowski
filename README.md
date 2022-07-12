@@ -3,7 +3,7 @@
 
 <details>
    <summary>
-    ⚙️ Technologies I've used
+    Technologies I've used ⚙️
    </summary>
    
    <br />
@@ -36,12 +36,12 @@
 
 <details>
   <summary>
-    🔭 I’m currently working on
+    I’m currently working on 🔭
   </summary>
    
    <br />
   
-  - [🐾 Breedaholic](https://github.com/franekostrowski/breedaholic)
+  - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   
 </details>
 

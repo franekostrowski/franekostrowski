@@ -3,7 +3,7 @@
 
 <details>
    <summary>
-    Technologies I've used ⚙️
+    Technologies I've used 💻
    </summary>
    
    <br />
@@ -36,12 +36,25 @@
 
 <details>
   <summary>
-    I’m currently working on 🔭
+    I’m currently working on ⚙️
   </summary>
    
    <br />
   
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
+  
+</details>
+
+<details>
+  <summary>
+    Projects I've worked on 🔭
+  </summary>
+   
+   <br />
+  
+  - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
+  - [Piano4U 🎹](https://piano4u.pl)
+  - [Stomedyk 🦷](https://stomedyk.pl)
   
 </details>
 

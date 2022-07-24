@@ -46,7 +46,7 @@
    
    <br />
   
-  - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
+  - A secret side project 🤭
   
 </details>
 

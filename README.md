@@ -56,9 +56,10 @@
   </summary>
    
    <br />
-  
-  - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
+   
+  - [Breedaholic 🐶](https://breedaholic.netlify.app)
   - [Piano4U 🎹](https://piano4u.pl)
+  - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
   - [Stomedyk 🦷](https://stomedyk.pl)
   
 </details>

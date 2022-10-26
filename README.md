@@ -52,7 +52,18 @@
 
 <details>
   <summary>
-    Projects I've worked on 🔭
+    I’m planning to work on 🔭
+  </summary>
+   
+   <br />
+  
+  - Some Next.js and React.js open-source hooks 
+  
+</details>
+
+<details>
+  <summary>
+    Projects I've worked on 📌
   </summary>
    
    <br />

@@ -46,7 +46,7 @@
    
    <br />
   
-  - A secret side project 🤭
+  - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
   
 </details>
 
@@ -57,7 +57,7 @@
    
    <br />
    
-  - [Breedaholic 🐶](https://breedaholic.netlify.app)
+  - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
   - [Stomedyk 🦷](https://stomedyk.pl)

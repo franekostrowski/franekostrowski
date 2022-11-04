@@ -58,6 +58,7 @@
    <br />
   
   - Some Next.js and React.js open-source hooks 
+  - Unique image shadow generator :)
   
 </details>
 

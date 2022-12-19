@@ -43,12 +43,12 @@
 
 <br />
 
-`I’m currently working on`
+`I’m currently working on:`
    - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
 
 <br />
 
-`Projects I've worked on 💼`
+`Projects I've worked on:`
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
@@ -58,6 +58,6 @@
 <hr />
 
 <a href="https://www.linkedin.com/in/franekostrowski">
-<img align="left" alt="LinkedIn logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="LinkedIn logo" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    Visit my LinkedIn profile ❤️
 </a>

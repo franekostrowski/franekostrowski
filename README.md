@@ -3,6 +3,19 @@
 
 <br />
 
+#### `I’m currently working on:`
+   - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
+
+<br />
+
+#### `Projects I've worked on:`
+  - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
+  - [Piano4U 🎹](https://piano4u.pl)
+  - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
+  - [Stomedyk 🦷](https://stomedyk.pl)
+
+<br />
+
 <details>
    <summary>
     Technologies I've worked with 📌
@@ -40,19 +53,6 @@
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 </details>
-
-<br />
-
-`I’m currently working on:`
-   - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
-
-<br />
-
-`Projects I've worked on:`
-  - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
-  - [Piano4U 🎹](https://piano4u.pl)
-  - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
-  - [Stomedyk 🦷](https://stomedyk.pl)
 
 <br />
 

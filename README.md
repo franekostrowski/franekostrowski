@@ -1,9 +1,12 @@
 ### Hey there 👋🏼 <br /> I'm Franek and I'm an 18 year old Frontend developer from Kraków, Poland 🚀
 #### I enjoy creating clean looking web applications using modern technologies 💻 <br /> I'm also a scuba diver 🤿
 
+<hr />
+<br />
+
 <details>
    <summary>
-    Technologies I've used 💻
+    Technologies I've worked with 💻
    </summary>
    
    <br />
@@ -39,50 +42,19 @@
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 </details>
 
-<details>
-  <summary>
-    I’m currently working on ⚙️
-  </summary>
-   
-   <br />
-  
-  - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
-  
-</details>
+<br />
 
-<details>
-  <summary>
-    I’m planning to work on 🔭
-  </summary>
-   
-   <br />
-  
-  - Some Next.js and React.js open-source hooks 
-  - Unique image shadow generator :)
-  
-</details>
+I’m currently working on ⚙️
+   - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
 
-<details>
-  <summary>
-    Projects I've worked on 📌
-  </summary>
-   
-   <br />
-   
+<br />
+
+Projects I've worked on 📌
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
   - [Stomedyk 🦷](https://stomedyk.pl)
-  
-</details>
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
+<br />
 
-<hr />
-
-<a href="https://www.linkedin.com/in/franekostrowski">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/franekostrowski">Visit my LinkedIn profile ❤</a>

@@ -1,7 +1,6 @@
 ### Hey there 👋🏼 <br /> I'm Franek and I'm an 18 year old Frontend developer from Kraków, Poland 🚀
-#### I enjoy creating clean looking web applications using modern technologies 💻 <br /> I'm also a scuba diver 🤿
+> #### I enjoy creating clean looking web applications using modern technologies 💻 <br /> I'm also a scuba diver 🤿
 
-<hr />
 <br />
 
 <details>
@@ -44,12 +43,12 @@
 
 <br />
 
-I’m currently working on ⚙️
+`I’m currently working on ⚙️`
    - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
 
 <br />
 
-Projects I've worked on 📌
+`Projects I've worked on 📌`
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
@@ -57,4 +56,7 @@ Projects I've worked on 📌
 
 <br />
 
-<a href="https://www.linkedin.com/in/franekostrowski">Visit my LinkedIn profile ❤</a>
+<a href="https://www.linkedin.com/in/franekostrowski">
+<img align="left" alt="LinkedIn logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   Visit my LinkedIn profile ❤️
+</a>

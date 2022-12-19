@@ -5,7 +5,7 @@
 
 <details>
    <summary>
-    Technologies I've worked with
+    Technologies I've worked with 📌
    </summary>
    
    <br />
@@ -48,7 +48,7 @@
 
 <br />
 
-`Projects I've worked on 📌`
+`Projects I've worked on 💼`
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)

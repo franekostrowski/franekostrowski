@@ -5,7 +5,7 @@
 
 <details>
    <summary>
-    Technologies I've worked with 💻
+    Technologies I've worked with
    </summary>
    
    <br />
@@ -43,7 +43,7 @@
 
 <br />
 
-`I’m currently working on ⚙️`
+`I’m currently working on`
    - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
 
 <br />
@@ -55,8 +55,9 @@
   - [Stomedyk 🦷](https://stomedyk.pl)
 
 <br />
+<hr />
 
 <a href="https://www.linkedin.com/in/franekostrowski">
 <img align="left" alt="LinkedIn logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   Visit my LinkedIn profile ❤️
+   Visit my LinkedIn profile
 </a>

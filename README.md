@@ -58,6 +58,6 @@
 <hr />
 
 <a href="https://www.linkedin.com/in/franekostrowski">
-<img align="left" alt="LinkedIn logo" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="LinkedIn logo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    Visit my LinkedIn profile ❤️
 </a>

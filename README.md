@@ -1,4 +1,4 @@
-### Hey there 👋🏼 <br /> I'm Franek and I'm an 18 year old Frontend developer from Kraków, Poland 🚀
+### Hey there 👋🏼 <br /> I'm Franek and I'm a Frontend developer 🚀
 > #### I like to create clean looking web applications using modern technologies 💻 <br /> I'm also a scuba diver 🤿
 
 <br />
@@ -13,7 +13,6 @@
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)
   - [Stomedyk 🦷](https://stomedyk.pl)
 
-<br />
 
 #### `Technologies I've worked with:`
   

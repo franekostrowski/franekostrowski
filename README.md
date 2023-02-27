@@ -46,9 +46,3 @@
    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
    ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
 </details>
-
-<br />
-
-<a href="https://www.linkedin.com/in/franekostrowski">
-<img align="left" alt="LinkedIn logo" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>

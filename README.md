@@ -8,6 +8,7 @@
 
 
 #### `Projects I've worked on:`
+  - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇🏽‍♀️](https://studiodziedzic.pl)

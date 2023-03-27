@@ -4,7 +4,7 @@
 <br />
 
 #### `I’m currently working on:`
-   - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)
+   - [Piano4U update 🎹](https://piano4u.pl)
 
 
 #### `Projects I've worked on:`

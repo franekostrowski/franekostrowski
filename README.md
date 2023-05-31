@@ -1,4 +1,4 @@
-### Hey there 👋🏼 <br /> I'm Franek. I'm 19. I'm a Frontend developer 🚀
+### Hey there 👋🏼 <br /> I'm Franek. I'm a Frontend developer 🚀
 > #### I like to design and create clean looking web applications/websites with attention to detail. My projects follow SEO and accessibility standards, are unit/e2e tested 💻 <br /> I'm also a scuba diver 🤿
 
 <br />

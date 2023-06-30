@@ -4,7 +4,7 @@
 <br />
 
 #### `I’m currently working on:`
-   - Interesting e-commerce project!
+   - Interesting ecommerce project!
 
 
 #### `Projects I've worked on:`

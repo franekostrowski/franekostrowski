@@ -4,7 +4,7 @@
 <br />
 
 #### `I’m currently working on:`
-   - [Piano4U update 🎹](https://piano4u.pl)
+   - Interesting e-commerce project!
 
 
 #### `Projects I've worked on:`

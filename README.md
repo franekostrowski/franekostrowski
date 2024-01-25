@@ -3,9 +3,6 @@
 
 <br />
 
-#### `I’m currently working on:`
-   - Interesting ecommerce project!
-
 
 #### `Projects I've worked on:`
   - [Diveholic 🤿](https://github.com/franekostrowski/diveholic)

@@ -9,7 +9,6 @@
   - [Breedaholic 🐶](https://github.com/franekostrowski/breedaholic)
   - [Piano4U 🎹](https://piano4u.pl)
   - [Studio Fryzur Dziedzic 💇](https://studiodziedzic.pl)
-  - [Stomedyk 🦷](https://stomedyk.pl)
 
 
 #### `Technologies I've worked with:`

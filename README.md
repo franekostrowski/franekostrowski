@@ -1,5 +1,5 @@
 ### Hey there 👋🏼 <br /> I'm Franek. I'm a Frontend developer 🚀
-> #### I like to design and create clean looking web applications/websites with attention to detail. My projects follow SEO and accessibility standards, are unit/e2e tested 💻 <br /> I'm also a scuba diver 🤿
+> #### I'm a frontend developer with over 3 years of experience. I specialize in building user-friendly solutions with a strong emphasis on accessibility and clean code practices.<br /> I'm also a scuba diver 🤿
 
 <br />
 
